@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/%E2%80%8Bhttps://drsnails.github.io/pixperfect%E2%80%8B/static/css/main.5f361e03.chunk.css",
+    "main.js": "/%E2%80%8Bhttps://drsnails.github.io/pixperfect%E2%80%8B/static/js/main.5be6d88e.chunk.js",
+    "main.js.map": "/%E2%80%8Bhttps://drsnails.github.io/pixperfect%E2%80%8B/static/js/main.5be6d88e.chunk.js.map",
+    "runtime-main.js": "/%E2%80%8Bhttps://drsnails.github.io/pixperfect%E2%80%8B/static/js/runtime-main.6ad01ed1.js",
+    "runtime-main.js.map": "/%E2%80%8Bhttps://drsnails.github.io/pixperfect%E2%80%8B/static/js/runtime-main.6ad01ed1.js.map",
+    "static/js/2.24915364.chunk.js": "/%E2%80%8Bhttps://drsnails.github.io/pixperfect%E2%80%8B/static/js/2.24915364.chunk.js",
+    "static/js/2.24915364.chunk.js.map": "/%E2%80%8Bhttps://drsnails.github.io/pixperfect%E2%80%8B/static/js/2.24915364.chunk.js.map",
+    "index.html": "/%E2%80%8Bhttps://drsnails.github.io/pixperfect%E2%80%8B/index.html",
+    "precache-manifest.8f5b46175e4a6ac0d8c0a9671175c426.js": "/%E2%80%8Bhttps://drsnails.github.io/pixperfect%E2%80%8B/precache-manifest.8f5b46175e4a6ac0d8c0a9671175c426.js",
+    "service-worker.js": "/%E2%80%8Bhttps://drsnails.github.io/pixperfect%E2%80%8B/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/%E2%80%8Bhttps://drsnails.github.io/pixperfect%E2%80%8B/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.24915364.chunk.js.LICENSE.txt": "/%E2%80%8Bhttps://drsnails.github.io/pixperfect%E2%80%8B/static/js/2.24915364.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/%E2%80%8Bhttps://drsnails.github.io/pixperfect%E2%80%8B/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ad01ed1.js",
+    "static/js/2.24915364.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5be6d88e.chunk.js"
+  ]
+}
