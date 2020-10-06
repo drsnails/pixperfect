@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e4246877719a434eee9214b4dd4d103",
+    "revision": "73600f552cd6a61e9a2fe861df399f3d",
     "url": "/%E2%80%8Bhttps://drsnails.github.io/pixperfect%E2%80%8B/index.html"
   },
   {
-    "revision": "1d0aeafe7907e46a0519",
+    "revision": "a8fffae532bc9f866bb3",
     "url": "/%E2%80%8Bhttps://drsnails.github.io/pixperfect%E2%80%8B/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/%E2%80%8Bhttps://drsnails.github.io/pixperfect%E2%80%8B/static/js/2.24915364.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1d0aeafe7907e46a0519",
-    "url": "/%E2%80%8Bhttps://drsnails.github.io/pixperfect%E2%80%8B/static/js/main.5be6d88e.chunk.js"
+    "revision": "a8fffae532bc9f866bb3",
+    "url": "/%E2%80%8Bhttps://drsnails.github.io/pixperfect%E2%80%8B/static/js/main.0f4f27c3.chunk.js"
   },
   {
     "revision": "87bfa7bdc2121584dd41",

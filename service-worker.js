@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/%E2%80%8Bhttps://drsnails.github.io/pixperfect%E2%80%8B/precache-manifest.8f5b46175e4a6ac0d8c0a9671175c426.js"
+  "/%E2%80%8Bhttps://drsnails.github.io/pixperfect%E2%80%8B/precache-manifest.c6730af9d52ea2de12376cabfa2fdcec.js"
 );
 
 self.addEventListener('message', (event) => {
